@@ -1,0 +1,176 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="w4UTFSyoU2m5E5sqAZMX">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k-nuHoNz03uAyKBDc-mJ-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;verticalAlign=top;" value="&lt;h2&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;lkogoca da porta&lt;/font&gt;&lt;/h2&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="700" width="240" x="405" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="k-nuHoNz03uAyKBDc-mJ-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;S2-sensor infravermelho&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="130" x="170" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="k-nuHoNz03uAyKBDc-mJ-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;S1-radar/sensor pir&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="130" x="170" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="k-nuHoNz03uAyKBDc-mJ-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;S4-sensor fim de curso PORTA FECHADA&lt;/font&gt;" vertex="1">
+          <mxGeometry height="85" width="150" x="190" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="k-nuHoNz03uAyKBDc-mJ-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;S3=sensor fim de curso PORTA ABERTA&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="170" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="k-nuHoNz03uAyKBDc-mJ-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;motor&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;abrir/fechar&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="200" x="425" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="k-nuHoNz03uAyKBDc-mJ-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;porta&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="465" y="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="k-nuHoNz03uAyKBDc-mJ-12" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="160" />
+            </Array>
+            <mxPoint x="140" y="1410" as="sourcePoint" />
+            <mxPoint x="890" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k-nuHoNz03uAyKBDc-mJ-13" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="1400" />
+            </Array>
+            <mxPoint x="140" y="1400" as="sourcePoint" />
+            <mxPoint x="890" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k-nuHoNz03uAyKBDc-mJ-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt; FRONTEIRA DO SISTEMA — PORTA AUTOMÁTICA  &lt;br&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="420" x="290" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="k-nuHoNz03uAyKBDc-mJ-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" value="entradas" vertex="1">
+          <mxGeometry height="40" width="70" x="205" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="k-nuHoNz03uAyKBDc-mJ-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;processamento&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="435" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="k-nuHoNz03uAyKBDc-mJ-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;saida&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="740" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="k-nuHoNz03uAyKBDc-mJ-20" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endWidth=20;endSize=9;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="1370" />
+              <mxPoint x="260" y="1260" />
+            </Array>
+            <mxPoint x="430" y="1370" as="sourcePoint" />
+            <mxPoint x="260" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k-nuHoNz03uAyKBDc-mJ-21" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="524.41" y="1180" as="sourcePoint" />
+            <mxPoint x="524.41" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GdGmXf6y1jCThvz181KQ-1" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="520" y="1000" as="sourcePoint" />
+            <mxPoint x="520" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GdGmXf6y1jCThvz181KQ-3" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endWidth=17;endSize=9;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340" y="1120" as="sourcePoint" />
+            <mxPoint x="415" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GdGmXf6y1jCThvz181KQ-4" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="315" y="549.3299999999999" as="sourcePoint" />
+            <mxPoint x="395" y="549.3299999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GdGmXf6y1jCThvz181KQ-5" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="320" y="349.33" as="sourcePoint" />
+            <mxPoint x="390" y="349.33" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GdGmXf6y1jCThvz181KQ-6" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="315" y="449.33" as="sourcePoint" />
+            <mxPoint x="395" y="449.33" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GdGmXf6y1jCThvz181KQ-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;re-&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;ALIMENTAÇÃO&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="460" y="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="GdGmXf6y1jCThvz181KQ-9" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="524.33" y="1290" as="sourcePoint" />
+            <mxPoint x="524.3299999999999" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GdGmXf6y1jCThvz181KQ-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="1060" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="GdGmXf6y1jCThvz181KQ-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;FALHA NO SENSOR&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;FALHA NO MOTOR&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="240" x="930" y="1145" as="geometry" />
+        </mxCell>
+        <mxCell id="GdGmXf6y1jCThvz181KQ-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;PESSOAS/OBJETO PRESO NO PORTA&lt;/font&gt;" vertex="1">
+          <mxGeometry height="100" width="240" x="930" y="955" as="geometry" />
+        </mxCell>
+        <mxCell id="GdGmXf6y1jCThvz181KQ-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PERTUBAÇÕES&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="1020" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="GdGmXf6y1jCThvz181KQ-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;FALHAS&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="980" y="1085" as="geometry" />
+        </mxCell>
+        <mxCell id="GdGmXf6y1jCThvz181KQ-25" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAREAAAOdCAYAAACieVYEAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAB4QSURBVHhe7d2BdrPIeqbRnLn/e85MJfky1XUKBHoBC9h7LVZbQiAsUY9Lbv3yv/7z//kPgC/9n//57+v861//+q8FyLwyIhUPkzDIeTkDRB4XkTbLWPuWxpcw423X1s9e/szuq7/dN+uXHHX/S7bsf7xNv37Put7afew5fv7GqyIyW9dfVydvf5tP24zGdWvbr+1nZm1fvaP23y43dd3afY1fN7PbN0vXl1r/6Xb8htf8TqSdkDN1spbxpN1zEs9O+rMHwXj8R+qPfevjx/u86herawN6FoArnD0Aj9z/Ex8fcq/9X7x/pY/VGYPyyP1/M4DbNrV8c/9HHj/XEJEF/WB4k/77boN470A28N9HRBZ8M4CeoL7v5Ht/4+P2Zq+PSD/TOHvWUfuvn/T95W/12/b7q6Uun2Vt33vvtz/eWuoyv+s1EWk/HZdOxv4nb3LCzu5jvFz31S/fqn33+xj33a9LtP2sPX6jb++3jrlf+G2PjEg72celaSfkeH1/ktbX/fpef91sfTPex9GDoN93c/T+14zfW1s+3X8dJ8/lbe9AxC9WgYiIABERASIiAkREBIiICBARESAiIkBERICIiAAREQEiIgJERASIiAgQEREgIiJARESAiIgAEREBIiICREQEiIgIEBERICIiQEREgIi/gLfT+Gchlx6+LX9icjT7k5P9Pj7d96ftm7V9bL3/8bo999H068d13I+I7DAbMDOzwbbFuP9xP7P1a5dHR6xvPh1D8+k27fJ4Pffk5czBjhwYdx1g43ELxbOJyMGePmDa91ezjdE3AV3aF/chIjvUAKrlbLP76O9/NmD79W3pbTn+fv3SbRJtn3Xce4PDbxKRndqJXyf/WYOslv6+yqeBV9vMtm3662fH329btxu168/43rknEflSDbKjB1Ptty1L1tZtVfchBqRE5MZ+MQBrx1Tr2n9rqcvcl4jc1BGzkcRsFrN0TP3tagbUL9yb94nsMPuJOT58Sz9VtzzMbdu1243r677quk/Hd8T6tfsv435q/bh9WbqeexARTiEM7+HlDIcTkHcREQ4nIO8iIkBERB5o/MUmnElEgIiIABERASIiAkREBIiICBARESAiIkBERICIiAAREQEiIgJERASIiAgQEREgIiJARESAiIg8kM845UoiAkREBIiICBARESAiIkDE3+J9iE9/a8bTzFnMRB5iLRICwplEBIiIyIPMZhxmIZxNRICIiDxMP/MwC+EKIgJE/C9eIGImAkREBIiICBARESAiIkBERICIiAAREQEiIgJERASIiAgQEREgIiJA5JH/ivfThxbzfP5x+nUeGxEn0Xt5/q/l5QwQEREgIiJARESAiIgAEREBIiICREQEiIjIi7Q3YdVSlyElIi9T7+QUEI4iIi9SAWn/rQVS/u3MgWY/3fvj+LS+9Lfbu/14mz37b7Zs/+va93DH474rETnQ7H7767Yc13ibT/vsbdl/U7dL7uuX3fGY78zLmZPVYN1idvJfNRiWjnHP8fNOIvJyfSD89OYbInKxNmj75Ug1a1jbd7u+YiEaHEFELtYGbr8crd/v0ZGCGRF5qIqJkHA2ETnZLw3iOpb231rq8pK1ddCIyIlqAG592TKbORw9iGuG0i91/dJ91W1gxvtEDjQbhP1xfFpf+tvt2X7L+qX7q+vHfcxu/+uWvk/OISI8juf/Wl7OABERASIiAkREBIiICBARESAiIkBERICIiAAREQEiIgJERASIiAgQEREgIiJARESAiIgAEREBIiICREQEiIgIEBERICIiQEREgIiIABERGbS/ntYvS9bW7XHUfu7i0+PK/YhIp53c7c8v9svMXw6Cs+/77P3X4yokzyEiO1VoyAjJc/iD3p092yUxGQdPv5+ldeP1vS3b92a32br/Zu0YZ7edHUOzti5x1n6ZE5FB27as7ePb+xi36y/XfS9dbtbuN92+2bu+v4/Ztmv7+3Rf3zprv8x5OTNoJ1+dgDVAjrLl5O7XfzMQ1rZPB9ds+737a/uoJTkWfoeILGgneFvayX6lfpB9c9/p9leox5ZnEJEfUwOsX/ZItz/brx0PORG5WD87mM0Utswe1m7zafuj998uL4Vhtp923dr+uR+/WO3MTu5xP0sDYOv99du3bcZj/eYYjty+2bP/tW3bunZ5tv243ZHG++RcIsLjeP6v5eUMEBERICIiQEREgIiIABERASIiAkREBIiICBARESAiIkBERIDIY/8BHu/mH+Bd55EReTv/ipUreTkDREQEiIgIEBERICIiQEREgIiIABERASIiAkREBIiICBDxb2ceKPm3M+M/Xuz3M/uHjeP9jPdd2zjNnstMhP9VAeiXXn/dbP0YmTEoPJOIcKgWjTEmPJuIABER4X/VLKKWhJcy7yEi/EMb+DX4vSxhCxFhqmIiJHwiIhyun83wfCICRESE/1W/UO2XfkZR141f827esfpA4+CHM5mJABERASIiAkRE5IH8PoQriQgQEREgIiJARESAiIgAEe9YfYhPb0H3NHMWM5GHWIuEgHAmEQEiIvIgsxmHWQhnExEgIiIP0888zEK4gogAEf+LF4iYiQAREQEiIgJERASIiAgQEREgIiJARESAiDeb7dR/bsfaQ/eXf4Vu6Rhnnzmytn48/nR7nslMZIc2SNrAqGU2qJql66+0NID74599D1vWjV/36vq2/MLjwPlEZKM2IMZBMxsos9vBk4nIwX4tIGuzATMFjiAiP6QN6tmyR7t9hWwWtHG/42369d8EMd2e+xGRH9IG3Ww50rjfNth76f0dfbz8PhH5If1P8X45y9KAFxL2EJEf0gbfbNmqgjMG6NsQfbtdSbfnHkRkozaYx0HRLu8Z5Ffo41PLkrVBvrbdFun23IeI7NAGRht4tcwGSq3rv67Lv2A8pk+DvT/2frv+6zVbbsO9ecfqF9rA8LDBfzMTCflJy9uJyBfaLGTrdB6ezssZIGIm8kBmSFxJRICIiAAREQEiIgJERASIiAgQEREgIiJARESAiIgAEREBIiICREQEiIgIEBERICIiQEREgIiIPJBPvORKIgJERASIiAgQEREgIiJAxB+veohPf2vG08xZzEQeYi0SAsKZRASIiMiDzGYcZiGcTUSAiIg8TD/zMAvhCiICRPwvXiBiJgJERASIiAgQEREgIiJARESAiIgAEREBIt5sttP4uR39wzf7TI8jH962/19/uuoxcFq9h4js8M0gPnLg3yEi5U7HSsbLGU7RAlKzEp7NTGSHvT9daxDtfYjHwVfb1/3368d9L21bxvWlv92n++/Nritr63gOEdmpH2Czh25pAG71aVA2/fr+9uP62eVx3+N1s8tNu27L9r21dTyHlzM7tUFRA6MGWK/Wr91myZZBt2f9p9uOZvf/zT5q2bst9yQiX2oDpC1tsCz5i0HUD+K1YztTPTa8g4g8TA3gfumNkRnXp47eH79PRE70zSBt2yQ+bV9hqWU0br/2Pczuq1336Rh4Fr9Y3WE2OPqHb1z/7UO7tJ92/bjP8bq1Y5yta9a2n91faeuW7n/cjucSkRcZB3xZuh628HIGiJiJvEz/cqQ4BUiICBDxcuaBZrMNOIuIABERASIiAkREBIiICBARESAiIkBERICId6xOeLPW33Na3oeITPhXrX/L438vXs4AEREBIiICREQEiIgIEBERICIiQMT7RICImUinvcmplroMrBORQU3MBAS28XIGiLwqIjW76L/ldt34EPSzkLV1zYsevkusPb7jumb2/My28Tydx8uZBbOTrk7Qfpmd2Hxn9vj2+utm68fnovbHuURko6VYtJNUSH6H5+N6r4vI3pOsv62favDvzEQGLRoVC9G4VgW+lkT/PHKuV0akTlZ+T3tuavB7ju7BTISfVDERkt8nIp06Ydt/a6nLS9bW8Tf62Qzne21Eln7K1QnYL3X9UjDqNvBGZiI7VEj6RUCOMz624+Nb141f87e87R2ImIkAEREBIiICRERkwi/s7s3zdy0RASIiAkREBIiICBARESAiIkBERICIiAAREQEiIgJERASIiAgQEREgIiJARESAiIgAEREBIiLC4/gDBtcSESAiIkBERICIiAAREQEi/hbvRPu7JR6We/n0t2Y8n+cxE+ER1iIhIOcSESAiIjzGbMZhFnI+EQEiIsKj9DMPs5BriAgQEREep81AzEKuIyJARESAiIgAEREBIiICREQEiIgIEBERICIi7NI+t6OWNZ/Wn2nrMXIMEWGzNijr3aBtWRqkfzl4tx4jxxERNqnB2ZsN0tntrrL1GDmWiHCovwrIEgE5n4jwM9qAny3fqG1/LWpPJCL8jDbgZ8teFZ5vtmU/EeFn1OxhXPZot/82PnxHRPgZNfjHZY+9tycnImzSBuc4K6if+r/iDsf4RP541YQTb1k/SGeP0TiIy5WP56dj5FgiMiEi6zw+9LycIbI08+A9RITd2iykxUNAaESEr7SQ1MK7iQiPY4Z0LREBIiICREQEiIgIEBERICIiQEREgIiIABERASIiAkREBIiICBARESAiIkBERICIiAAREQEiIsLj+MjGa4kIEBERICIiQMRfwJvwF97+3donqM8eq794DGfH6Hk8n4hMiMi6T49PDearH0PP29/wcoZDGcjvIyIc6u4BaRHsFz7zcmbCT9N1Wx6fbx7DpUG7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Fels4SmzjTUiwmvNBni7rmYos5lKW1/L0vpk+zsSEV5lHMR7B3I68J8Sjp6I8CoVjmQwC8k/iQj8jzY7qf/WUpdnxuv729dSl2eWrr8bEYFOP1OpZWbt+nGZWbr+jkQEAuls4gmzEe9YnWhPrIflPB7fZzETASIiAkREBIiICBzsKf/rdisRASIiAkREBIiICBARESAiIkBERICIiAAREQEiIgJERASIiAgQEREgIiJARESAiIgAEREBIiICB3vbJ9mLCBARESAiIkDEX8Cb8BfazvXXj2//aez9ccw+pX1t/fg9pNvflZkIr7Q0gNv1/TIb+J/WjV/36vq2zKJzRyICRESEV1ubDTxlpnA2EeFVWhjqZcbs5UZbX0sz3qZfP9v+k3T7XyQi0GkDu5amDfZeOvCfEo6eiMCCpQEvJP8kIrxGzSr6lxR1+RvfblfS7X+FiPAqbRYwLkvWBvnadluk2/8SEYFOC0ctzafB3oem367/es2W2/w671idaE+sh+U8Ht9nMRMBIiICREQEiIgIEBERICIiQEREgIiIABERASIiAkREBIiICBARESAiIkBERICIiAAREQEiIgJERASIiAgQEREgIiJczie9P4uIABERASIiAkREBIiICBDxt3gn/K3Y4336w9Ue7/syE+ESa5EQkHsTESAiIlxmNuMwC7k/EQEiIsKl+pmHWcgziAgQEREu12YgZiHPISJARESAiIgAEREBIiICREQEiIgIEBERICIi7NI+F6Rflnxav+Tb7fg7IsJmbXDXu03Petdp7VdI7kNEOFzFJiEk9yEiHMrAfx8RYbOaHdSyJJ2FcC8iwi4tEBWJMSTtchqQPlJidA8iwlcqJhWS+u8Rat/cg4hwqH4m0V/eSjzuR0Q4RM0e+qW/fqu90eHviQib1QDvlz2B4Jn8BbwJgwO2MxMBIiICREQEiIgIl2u/c+I5RASIiAgQEREgIiJARESAiIgAEREBIiICREQEiIgIEBERICIiQEREgIiIABERASIiAkREBIiICJfzSfrPIiJARESAiIgAEX8Bb8JfwPve+Enu/eM4+5T38XEeH/vaxvPxu8xEOEwFoF96/XWz9WNkxqDwm0SEn9KiMcaE3yYiQEREOEzNImpJeClzHyLCodrAr8HvZck7iAinqJgIyfOJCD+nn83w+0QEiIgIh6lfqPZLP6Oo68avuTfvWJ0YT35gmZkIEBERICIiQEREgIiIABERASIiAkREBIiICBDxjtUJ71g93qe3uHu878tMhEusRUJA7k1EgIiIcJnZjMMs5P5EBIiICJfqZx5mIc8gIkBERLhcm4GYhTyHiAAREQEiIgJERASIiAgQEREgIiJARESAiM8Tmbjr54nMPrNj/D7G2/Tr96zrrd3H3sdx7XtYW9dbuv92/exYZ9eVcfvRnvt/KjORh2knbS1Nf0LXgOmXcWAsreuvn10eLV2/Rb/vcT9r65rxexy/v61m+276fa/tf2n7JxKRB+tP5LWT/duB9msqIL2zB/OTHr9viciLnD2gZu4+wNLjf0NgROTBvjmB2za1fBOdfrszotUfX1v2+rR9uy45/nT7O/KL1YnZyfXXtjxN43H32/Qn96jW9f9tPt1+Zly3dtuZuu9ebf9pX9+sH69bu7y0/7XbLG3zJCLyIGsn7JZ1/W3SfZW12858e7/NN+vH69YuL+1/7TZL2zyJlzMv107yJWvrZur27b+11OU7+Ob4+3X97Wupy08mIi/Rfhouncyzn5Tf/vRs243LVdp9jd/j3gE8HntbltS++9uM2/brnkpEXqSd0O3E75dPJ3kNlF8xHv9o/B6PHsT9vps3ROITvxMBImYiQEREgIiIABERASIiAkREBIiICBARESAiIkBERICIiAAREQEiIgJERASIiAgQEREgIiJARESAiIgAEREBIiICREQEiIgIEBERICIiQEREgIiIABERAQL/8R//F9YPNQ7BZyBLAAAAAElFTkSuQmCC;" value="" vertex="1">
+          <mxGeometry height="630" width="185.93" x="430" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="GdGmXf6y1jCThvz181KQ-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=none;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Q1-ABRIR&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="715" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="GdGmXf6y1jCThvz181KQ-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=none;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Q4-FALHA&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="715" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="GdGmXf6y1jCThvz181KQ-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=none;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Q2-FECHAR&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="715" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="GdGmXf6y1jCThvz181KQ-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=none;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Q3-PARAR&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="715" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="GdGmXf6y1jCThvz181KQ-40" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="660" y="340" as="sourcePoint" />
+            <mxPoint x="710" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GdGmXf6y1jCThvz181KQ-41" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="660" y="419.71" as="sourcePoint" />
+            <mxPoint x="710" y="419.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GdGmXf6y1jCThvz181KQ-42" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="660" y="510" as="sourcePoint" />
+            <mxPoint x="710" y="509.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GdGmXf6y1jCThvz181KQ-43" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="660" y="589.71" as="sourcePoint" />
+            <mxPoint x="715" y="589.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GdGmXf6y1jCThvz181KQ-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;MOTOR PARADO&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;PORTA PERMANECE ABERTO EM CASO DE OBSTACULOS&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="260" x="930" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="GdGmXf6y1jCThvz181KQ-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;ESTADO SEGURO&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="1030" y="650" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
